@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Yasmina
 
-<!--
-**Yasmina504/Yasmina504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Flutter Mobile App Developer
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Flutter & Dart** — Cross-platform Mobile Apps
+-  **Firebase** — Auth, Firestore, Cloud Messaging
+-  **REST APIs** — Integration & HTTP
+-  **State Management** — Provider / Bloc / GetX
+-  **UI/UX** — Responsive & Clean Design
+-  **Git & GitHub** — Version Control
+
+---
+
+### 📊 GitHub Stats
+
+![Yasmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasmina504&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmina504&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+
+- 📧 Email: your@email.com
+- 💼 LinkedIn: [your-linkedin]
+- 🌐 Portfolio: [your-portfolio]
+
+
+
